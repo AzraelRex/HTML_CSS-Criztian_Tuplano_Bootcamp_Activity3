@@ -7,8 +7,9 @@ So I am just going to try to and explain to the best of my ability, in the most 
 I also need to record a video after writing this  README.md, since the main instruction for this activity is to record a video explaining the concept of
 HTML heading class and id referenced in CSS colors.
 
-First of all, I learned that I the <br> and </br> tag is used in order to separate text from one another, forming a small margin between them, which I 
-used in order to make my format my text so that it looks better, next I used align="center" in order to center my text and have it look better.
+First of all, I learned that I the <br> and </br> tag is used in order to separate text from one another, 
+forming a small margin between them, which I used in order to make my format my text so that it looks better, 
+next I used align="center" in order to center my text and have it look better.
 
 Now my interpretration of HTML heading class is that it is used in order to be able to declare a type of class for my HTML headings, in terms of my code it is
 to define the value of name of the slasher horror villain competitor such as Michael Myers. And the HTML heading id is used in order to be able to change the 
