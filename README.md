@@ -1,3 +1,4 @@
+
 Greetings everyone thats checking out my github profile. This is activity 3 of my colleague Mr. Criztian Tuplano's bootcamp, and this
 is my output for activity 3 of the bootcamp. 
 It is presently only the second week of the boot camp and we have started out with CSS and its concepts.
@@ -7,15 +8,14 @@ So I am just going to try to and explain to the best of my ability, in the most 
 I also need to record a video after writing this  README.md, since the main instruction for this activity is to record a video explaining the concept of
 HTML heading class and id referenced in CSS colors.
 
-First of all, I learned that I the <br> and </br> tag is used in order to separate text from one another, 
-forming a small margin between them, which I used in order to make my format my text so that it looks better, 
-next I used align="center" in order to center my text and have it look better.
+First of all, I learned that I the <br> and </br> tag is used in order to separate text from one
+ another, forming a small margin between them, which I used in order to make my format 
+my text so that it looks better, next I used align="center" in order to center my text and
+ have it look better.
 
-Now my interpretration of HTML heading class is that it is used in order to be able to declare a type of class for my HTML headings, in terms of my code it is
-to define the value of name of the slasher horror villain competitor such as Michael Myers. And the HTML heading id is used in order to be able to change the 
-color of the heading despite it not having a class and CSS thinking it's group within the same class since it uses the same heading such as H1.
-I am not sure if this is right but my interpretation of HTML id when linked to a CSS file is that it takes priority over other parts of HTML tags like important 
-and final.
+Now my interpretration of HTML heading class is that it is used in order to be able to declare a type of class for my HTML headings, in terms of my code it is to define the value of name of the slasher horror villain competitor such as Michael Myers. And the HTML heading id is used in order to be able to change the  color of the heading despite it not having a class and CSS thinking it's group within the same class since it uses the same heading such as H1.
+
+I am not sure if this is right but my interpretation of HTML id when linked to a CSS file is that it takes priority over other parts of HTML tags like important and final.
 
 As for the CSS well you can just declare the heading you want to be stylized using for example H1 with the color that you want it to be.
 Though if you want to change that color even though it classified by the same HTML heading you can use the #syntax along with the class name of the
@@ -29,4 +29,5 @@ In order to use and improve this repository for yourself (remember use and impro
 local machine, then open up your text editor, which I am assuming in this case is VScode, and use live server to see the output of my HTML and CSS code.
 
 And if you ever do, please credit me as this is my original work.
+
 
