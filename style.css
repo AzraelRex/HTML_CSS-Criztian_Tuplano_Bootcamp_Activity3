@@ -7,7 +7,7 @@
     color: blueviolet;
 }
 
-/*#group syntax plus whatever you called your heading tags takes priority over regular h1  with colors, 
+/*#group syntax plus whatever you called your heading tags class takes priority over regular h1  with colors, 
 because the computer interprets the hashtag syntax followed by whatever you named your html heading
 tag to be priorited than a simple h1 tag. There certain instances of this in both HTML and CSS
 kind like how important and final when nested in HTML tags work.*/
@@ -20,7 +20,7 @@ h1 {
     color: mediumseagreen;
 }
 
-/*See if I don't put the #group syntax for group 2 then it 
+/*See if I don't put the #group syntax followed up by what you named your HTML heading class tag then
  the computer will interpret the h2 color over it, causing the
  text to be mediumvioletred instead of mediumslateblue, when we want to be mediumslateblue..
 then it won't work. Try it for yourself to see.*/
@@ -39,9 +39,6 @@ h2 {
     
 }
 
-.group-3 {
-    color: magenta;
-}
 
 /*Jason wins, since he is more durable*/
 .winner {
@@ -54,7 +51,7 @@ deattached from his body by Laurie Strode, when Jason survived getting bombed by
     color:black;
 }
 
-/*Roman Bridged is more durable as a human, as he survived bullet wounds in the chest, while without the
+/*Roman Bridger is more durable as a human, as he survived bullet wounds in the chest, while without the
 overlook hotels power Jack Torrence is just a regular alcoholic human with an axe.*/
 .group-2.winner {
     color: orangered;
